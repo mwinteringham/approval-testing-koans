@@ -37,19 +37,19 @@
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
-            <version>3.1.0</version>
+            <version>3.3.0</version>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>3.10.0</version>
+            <version>3.141.59</version>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>com.applitools</groupId>
             <artifactId>eyes-selenium-java3</artifactId>
-            <version>RELEASE</version>
+            <version>3.150.1</version>
         </dependency>
     </dependencies>
 
